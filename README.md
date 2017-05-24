@@ -1,5 +1,7 @@
 #Rootbeer
 
+[![Join the chat at https://gitter.im/nf-rootbeer/Lobby](https://badges.gitter.im/nf-rootbeer/Lobby.svg)](https://gitter.im/nf-rootbeer/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Rootbeer GPU Compiler lets you use GPUs from within Java. It is different than other Java/GPU solutions
 in that it is tailored for advanced usage to get the best raw performance.
 
